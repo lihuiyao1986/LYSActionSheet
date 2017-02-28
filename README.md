@@ -1,6 +1,9 @@
 # LYSActionSheet
 ActionSheet视图
 
+##效果图
+
+![](./test.gif)
 
 ##属性
 
